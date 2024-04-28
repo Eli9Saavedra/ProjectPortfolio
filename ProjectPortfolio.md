@@ -106,17 +106,29 @@ By acquiring proficiency in React and mastering the Stripe API, I not only expan
 
 ### Design and Class Diagrams
 
-#### Class Diagram:
+### Flowcharts
+**Backend Flowchart**
+![Backend](https://raw.githubusercontent.com/Eli9Saavedra/ProjectPortfolio/main/Images/Backend%20Flowchart.png)
 
-Placeholder for class diagram image
+**Login/Register Flowchart**
+![Frontend](https://raw.githubusercontent.com/Eli9Saavedra/ProjectPortfolio/main/Images/Login_Create%20Account.jpg)
 
-#### Design Diagram:
+**User Authentication**
+![Frontend](https://raw.githubusercontent.com/Eli9Saavedra/ProjectPortfolio/main/Images/User%20Authentication%20Flowchart.jpg)
 
-Placeholder for design diagram image
+**Product Browsing**
+![Frontend](https://raw.githubusercontent.com/Eli9Saavedra/ProjectPortfolio/main/Images/Product%20Browsing%20Flowchart.jpg)
 
-#### ER Diagram:
+**Product Details**
+![Frontend](https://raw.githubusercontent.com/Eli9Saavedra/ProjectPortfolio/main/Images/Product%20Details.jpg)
 
-Placeholder for ER diagram image
+**Product Catolog**
+![Frontend](https://raw.githubusercontent.com/Eli9Saavedra/ProjectPortfolio/main/Images/Product%20Catalog%20Management.jpg)
+
+### ER Diagram
+![ER Diagram](https://raw.githubusercontent.com/Eli9Saavedra/ProjectPortfolio/main/Images/ER%20Diagram.png)
+
+
 
 #### Sequence Diagram:
 
