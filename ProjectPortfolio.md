@@ -128,36 +128,6 @@ By acquiring proficiency in React and mastering the Stripe API, I not only expan
 ### ER Diagram
 ![ER Diagram](https://raw.githubusercontent.com/Eli9Saavedra/ProjectPortfolio/main/Images/ER%20Diagram.png)
 
-
-
-#### Sequence Diagram:
-
-Placeholder for sequence diagram image
-
-#### Component Diagram:
-
-Placeholder for component diagram image
-
-#### Deployment Diagram:
-
-Placeholder for deployment diagram image
-
-#### API Interaction Diagram:
-
-Placeholder for API interaction diagram image
-
-#### Data Flow Diagram (DFD):
-
-Placeholder for DFD diagram image
-
-#### State Diagram:
-
-Placeholder for state diagram image
-
-#### Architecture Diagram:
-
-Placeholder for architecture diagram image
-
 ---
 
 ## Risks and Challenges
@@ -213,4 +183,3 @@ While the project has reached a significant milestone and achieved its primary o
    - Comprehensive documentation and clear code organization are crucial for facilitating future maintenance and updates to the application. Investing time in documenting key components, APIs, and deployment processes can streamline future development efforts.
 
 By addressing these outstanding issues and implementing necessary improvements, the project can continue to evolve and enhance its functionality, ultimately providing greater value to its users and stakeholders.
-
